@@ -7,3 +7,10 @@ class SongDetail extends React.Component {
 }
 
 export default SongDetail;
+
+class SongDetail extends React.Component {
+  constructor(props, obj) {
+    super(props);
+    this.obj = obj;
+  }
+}
