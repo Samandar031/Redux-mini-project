@@ -7,3 +7,9 @@ class SongDetail extends React.Component {
 }
 
 export default SongDetail;
+
+class Summa extends React.Component {
+  constructor(props) {
+    super(props);
+  }
+}
